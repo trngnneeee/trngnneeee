@@ -6,7 +6,7 @@
 - 💬 Do you have the same favourite? **Code, Technology, Computer, Sports, ...**
 
 - 📫 How to reach me:
-  -     **Email**:        dtnguyen23@clc.fitus.edu.vn
+  -    **Email** :   dtnguyen23@clc.fitus.edu.vn
   -  **Facebook**:     https://www.facebook.com/trngn.neee
   - **Instagram**:    https://instagram.com/trngn.neee
 
