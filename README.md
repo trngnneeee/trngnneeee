@@ -6,9 +6,9 @@
 - 💬 Do you have the same favourite? **Code, Technology, Computer, Sports, ...**
 
 - 📫 How to reach me:
-  - **Email**:       &emsp dtnguyen23@clc.fitus.edu.vn
-  - **Facebook**:    &emsp https://www.facebook.com/trngn.neee
-  - **Instagram**:   &emsp https://instagram.com/trngn.neee
+  -     **Email**:        dtnguyen23@clc.fitus.edu.vn
+  -  **Facebook**:     https://www.facebook.com/trngn.neee
+  - **Instagram**:    https://instagram.com/trngn.neee
 
 - ⚡ Fun fact **My major in higher secondary school is Physics, and now Im learning Code :'D**
 
