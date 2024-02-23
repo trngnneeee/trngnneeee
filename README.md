@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dang Truong Nguyen</h1>
-<h3 align="center"><🐥/h3>
+<h3 align="center">🐥</h2>
 
-- 🌱 I’m currently learning **University Of Science - VietNam National University - Ho Chi Minh City**
+- 🏫 I’m currently learning: **Information Technology - HCMUS**
+
+- 💬 Do you have the same favourite? **Code, Technology, Computer, Sports, ...**
 
 - 📫 How to reach me **dtnguyen23@clc.fitus.edu.vn**
 
