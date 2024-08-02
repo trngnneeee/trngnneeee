@@ -1,1 +1,1 @@
-<img src="README.png"/>
+<img src="README.png"/ width = "100>
