@@ -1,1 +1,1 @@
-<img src="README.png"/ width = "100>
+<img src="README.png" width = "2000" padding = "0"/>
