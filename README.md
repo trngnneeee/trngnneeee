@@ -5,11 +5,11 @@
 
 - 🏫 I’m currently learning: **Information Technology - HCMUS**
 
-- 💬 Do you have the same favourite? **Code, Technology, Computer, Sports, ...**
+- 💬 Favourite: **Coding, Technology, Computer, Sports, ...**
 
-- 📫 How to reach me **dtnguyen23@clc.fitus.edu.vn**
+- 📫 Contact **dtnguyen23@clc.fitus.edu.vn**
 
-- ⚡ Fun fact **My major in higher secondary school is Physics, and now Im learning Code :'D**
+- ⚡ Fun fact **My major used to be Physics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
