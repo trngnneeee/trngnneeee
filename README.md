@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dang Truong Nguyen</h1>
 <h3 align="center">🐥</h3>
 
-- 🔭 I’m currently working on [PetShop](https://petshop-project-2.vercel.app/)
-
 - 🏫 I’m currently learning: **Information Technology - HCMUS**
 
 - 💬 Favourite: **Coding, Technology, Computer, Sports, ...**
