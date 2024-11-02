@@ -21,13 +21,6 @@
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
 </p>
 
-<h3 align="left">🛠   Tools</h3>
-<p>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://brandslogos.com/wp-content/uploads/images/large/json-logo.png" alt="JSON-server" width="40" height="40"/></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://rdi.bright-research.com/wp-content/uploads/2020/10/postman.png" alt="Postman" width="40" height="40"/></a>
-</p>
-
 <h3 align="left">🖥   Front End</h3>
 <p>
   <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
@@ -40,4 +33,11 @@
 <h3 align="left">📊   Back End</h3>
 <p>
   <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" alt="firebase" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">🛠   Tools</h3>
+<p>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://brandslogos.com/wp-content/uploads/images/large/json-logo.png" alt="JSON-server" width="40" height="40"/></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://rdi.bright-research.com/wp-content/uploads/2020/10/postman.png" alt="Postman" width="40" height="40"/></a>
 </p>
