@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dang Truong Nguyen</h1>
 <h3 align="center">🐥</h3>
 
-- 🏫 I’m currently learning: **Information Technology - HCMUS**
+- 🏫 I’m currently learning:   **Information Technology - HCMUS**
 
-- 💬 Favourite: **Coding, Technology, Computer, Sports, ...**
+- 💬 Favourite:   **Coding, Technology, Computer, Sports, ...**
 
-- 📫 Contact **dtnguyen23@clc.fitus.edu.vn**
+- 📫 Contact:   **dtnguyen23@clc.fitus.edu.vn**
 
-- ⚡ Fun fact **My major used to be Physics**
+- ⚡ Fun fact:   **My major used to be Physics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
