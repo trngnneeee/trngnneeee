@@ -25,10 +25,9 @@
 <p>
   <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
   <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/></a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> 
   <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
  <a href="" target="_blank" rel="noreferrer"><img src="https://www.jsweet.org/wp-content/uploads/2016/04/react-logo.png" alt="tailwind" width="40" height="40"/></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="[https://cdn.worldvectorlogo.com/logos/pug.svg](https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png)" alt="pug" width="40" height="40"/></a> 
 </p>
 
 <h3 align="left">📊   Back End</h3>
@@ -40,6 +39,4 @@
 <p>
   <a href="" target="_blank" rel="noreferrer"><img src="https://www.pikpng.com/pngl/b/73-738895_sfml-logo-sfml-icon-clipart.png" alt="SFML" width="40" height="40"/></a>
   <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://brandslogos.com/wp-content/uploads/images/large/json-logo.png" alt="JSON-server" width="40" height="40"/></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://rdi.bright-research.com/wp-content/uploads/2020/10/postman.png" alt="Postman" width="40" height="40"/></a>
 </p>
