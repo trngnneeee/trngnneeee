@@ -26,7 +26,8 @@
   <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
   <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dx62wzbwc/image/upload/v1736663682/nextjs-logo-square_f7wqls.webp" alt="pug" width="40" height="40"/></a> 
+  <a href="" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dx62wzbwc/image/upload/v1736663682/nextjs-logo-square_f7wqls.webp" alt="nextjs" width="40" height="40"/></a> 
+  <a href="" target="_blank" rel="noreferrer"><img src="https://dwglogo.com/wp-content/uploads/2017/09/React_logo.png" alt="reactjs" width="40" height="40"/></a> 
 </p>
 
 <h3 align="left">📊   Back End</h3>
