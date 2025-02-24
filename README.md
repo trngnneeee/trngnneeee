@@ -26,7 +26,6 @@
   <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
   <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
- <a href="" target="_blank" rel="noreferrer"><img src="https://www.jsweet.org/wp-content/uploads/2016/04/react-logo.png" alt="tailwind" width="40" height="40"/></a>
   <a href="" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dx62wzbwc/image/upload/v1736663682/nextjs-logo-square_f7wqls.webp" alt="pug" width="40" height="40"/></a> 
 </p>
 
