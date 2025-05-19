@@ -83,20 +83,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/trngnneeee/trngnneeee/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trngnneeee/trngnneeee/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trngnneeee/trngnneeee/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/trngnneeee/trngnneeee/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/31dzz2y56if66kjqjddru4xhvlqa">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dzz2y56if66kjqjddru4xhvlqa&count=5" alt="Spotify recently played"  />
