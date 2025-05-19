@@ -39,12 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
 </div>
 
-###
-
-<img align="right" height="300" src="https://res.cloudinary.com/dnqinxiwo/image/upload/v1747636666/z6298381388506_2b334b28266f67f2ad6fe2eadd329444_gvswhn.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="20" />
