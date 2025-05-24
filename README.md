@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trngnneeee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=trngnneeee&show_icons=true&count_private=true&include_all_commits=true&theme=nord&locale=en&hide_border=false&custom_token=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" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trngnneeee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=trngnneeee&custom_title=%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%20My%20Contribution&theme=nord&radius=20&area=true&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
