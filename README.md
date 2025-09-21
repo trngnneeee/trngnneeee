@@ -34,9 +34,11 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
 
 #### Tools
-<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/SFML-8CC445?logo=sfml&logoColor=white">
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/SFML-8CC445?logo=sfml&logoColor=white">
+</p>
 
 ### **Connect with me**
 <div align="left">
