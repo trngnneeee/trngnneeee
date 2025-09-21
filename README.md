@@ -1,21 +1,45 @@
 <h1 align="left">Hi 👋! My name is Dang Truong Nguyen</h1>
 
-###
-
 <h4 align="left">🏫 : University of Science - Vietnam National University<br>📍 : HCM-Vietnam</h4>
 
-###
+### **GitHub Stats**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trngnneeee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trngnneeee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trngnneeee&custom_title=%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%20My%20Contribution&theme=nord&radius=20&area=true&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=trngnneeee&theme=dark&show_icons=true&count_private=true">
 
-###
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=trngnneeee&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=trngnneeee&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
+### **My Skills**
+
+#### Languages
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">  
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+
+#### Web Development
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=white">
+<img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff">  
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
+</br>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white">
+</br>
+<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"> 
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+
+#### Tools
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/SFML-8CC445?logo=sfml&logoColor=white">
+
+### **Connect with me**
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=dtn06052005@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.instagram.com/trngn.neee" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -30,54 +54,5 @@
   </a>
 </div>
 
-###
+<img src="https://img.shields.io/static/v1?message=dtn06052005@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwindcss logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=pug" height="45" alt="pug logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="express logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="microsoftsqlserver logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" height="45" alt="sourcetree logo"  />
-</div>
-
-###
