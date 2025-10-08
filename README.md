@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋! My name is Dang Truong Nguyen</h1>
 
 <h4 align="left">🧑‍💻 : Majoring in Software Engineering - Bachelor of Information Technology<br>🏫 : University of Science - Vietnam National University<br>📍 : HCM-Vietnam</h4>
+
 ### **My Skills**
 
 #### Languages
