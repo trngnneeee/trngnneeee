@@ -32,6 +32,9 @@
 </br>
 <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"> 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MSSQL-000000?logo=microsoftsqlserver&logoColor=white">
 
 #### Tools
 <p align="left">
