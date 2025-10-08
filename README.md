@@ -1,15 +1,6 @@
 <h1 align="left">Hi 👋! My name is Dang Truong Nguyen</h1>
 
 <h4 align="left">🧑‍💻 : Majoring in Software Engineering - Bachelor of Information Technology<br>🏫 : University of Science - Vietnam National University<br>📍 : HCM-Vietnam</h4>
-
-### **GitHub Stats**
-
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=trngnneeee&theme=dark&show_icons=true&count_private=true">
-
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=trngnneeee&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=trngnneeee&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
-
 ### **My Skills**
 
 #### Languages
